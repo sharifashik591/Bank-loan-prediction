@@ -1,4 +1,4 @@
-# Bank Loan predction and build an app with streamlit
+# Bank Loan prediction and build an app with streamlit
 
 ![workflow](https://user-images.githubusercontent.com/44643948/160253771-2ec46c6e-3350-48fe-ae06-3674769dfb88.png)
 
